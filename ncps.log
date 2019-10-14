@@ -1,0 +1,154 @@
+2019-10-14 00:02:14.890  INFO 20860 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 20860 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:02:14.895  INFO 20860 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:02:15.478  WARN 20860 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:02:15.789  INFO 20860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:02:15.805  INFO 20860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:02:15.805  INFO 20860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:02:15.964  INFO 20860 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:02:15.969  INFO 20860 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:02:15.969  INFO 20860 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1044 ms
+2019-10-14 00:02:16.118  INFO 20860 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:02:16.332  INFO 20860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:02:16.334  INFO 20860 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.717 seconds (JVM running for 2.193)
+2019-10-14 00:02:33.259  INFO 20860 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:02:33.259  INFO 20860 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:02:33.354  INFO 20860 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 95 ms
+2019-10-14 00:03:09.992  INFO 18272 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 18272 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:03:09.993  INFO 18272 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:03:10.587  WARN 18272 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:03:10.923  INFO 18272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:03:10.940  INFO 18272 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:03:10.940  INFO 18272 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:03:11.119  INFO 18272 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:03:11.124  INFO 18272 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:03:11.124  INFO 18272 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1097 ms
+2019-10-14 00:03:11.280  INFO 18272 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:03:11.501  INFO 18272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:03:11.504  INFO 18272 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.781 seconds (JVM running for 2.269)
+2019-10-14 00:03:14.448  INFO 18272 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:03:14.449  INFO 18272 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:03:14.453  INFO 18272 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-10-14 00:03:54.758  INFO 5260 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 5260 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:03:54.760  INFO 5260 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:03:55.408  WARN 5260 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:03:55.788  INFO 5260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:03:55.808  INFO 5260 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:03:55.808  INFO 5260 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:03:55.974  INFO 5260 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:03:55.978  INFO 5260 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:03:55.979  INFO 5260 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1179 ms
+2019-10-14 00:03:56.139  INFO 5260 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:03:56.368  INFO 5260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:03:56.370  INFO 5260 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.892 seconds (JVM running for 2.369)
+2019-10-14 00:04:04.465  INFO 5260 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:04:04.471  INFO 5260 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:04:04.485  INFO 5260 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2019-10-14 00:06:09.549  INFO 21928 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 21928 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:06:09.551  INFO 21928 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:06:10.141  WARN 21928 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:06:10.470  INFO 21928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:06:10.487  INFO 21928 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:06:10.488  INFO 21928 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:06:10.666  INFO 21928 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:06:10.670  INFO 21928 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:06:10.670  INFO 21928 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1089 ms
+2019-10-14 00:06:10.817  INFO 21928 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:06:11.043  INFO 21928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:06:11.046  INFO 21928 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.751 seconds (JVM running for 2.241)
+2019-10-14 00:06:14.469  INFO 21928 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:06:14.469  INFO 21928 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:06:14.535  INFO 21928 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 66 ms
+2019-10-14 00:09:25.152  INFO 23388 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 23388 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:09:25.154  INFO 23388 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:09:25.718  WARN 23388 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:09:26.016  INFO 23388 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:09:26.032  INFO 23388 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:09:26.032  INFO 23388 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:09:26.192  INFO 23388 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:09:26.196  INFO 23388 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:09:26.196  INFO 23388 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 994 ms
+2019-10-14 00:09:26.351  INFO 23388 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:09:26.564  INFO 23388 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:09:26.566  INFO 23388 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.734 seconds (JVM running for 2.224)
+2019-10-14 00:09:45.743  INFO 23388 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:09:45.743  INFO 23388 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:09:45.809  INFO 23388 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 66 ms
+2019-10-14 00:16:07.842  INFO 8368 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 8368 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:16:07.849  INFO 8368 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:16:08.523  WARN 8368 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:16:09.049  INFO 8368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:16:09.066  INFO 8368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:16:09.066  INFO 8368 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:16:09.239  INFO 8368 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:16:09.243  INFO 8368 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:16:09.244  INFO 8368 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1348 ms
+2019-10-14 00:16:09.398  INFO 8368 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:16:09.630  INFO 8368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:16:09.633  INFO 8368 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 2.186 seconds (JVM running for 2.779)
+2019-10-14 00:16:13.205  INFO 8368 --- [http-nio-63577-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:16:13.205  INFO 8368 --- [http-nio-63577-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:16:13.209  INFO 8368 --- [http-nio-63577-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-10-14 00:17:13.541  INFO 7304 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 7304 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:17:13.545  INFO 7304 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:17:14.181  WARN 7304 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:17:14.527  INFO 7304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:17:14.545  INFO 7304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:17:14.545  INFO 7304 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:17:14.722  INFO 7304 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:17:14.726  INFO 7304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:17:14.726  INFO 7304 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1143 ms
+2019-10-14 00:17:14.873  INFO 7304 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:17:15.091  INFO 7304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:17:15.094  INFO 7304 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.932 seconds (JVM running for 2.458)
+2019-10-14 00:17:17.940  INFO 7304 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:17:17.940  INFO 7304 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:17:17.944  INFO 7304 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-10-14 00:19:10.979  INFO 1772 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 1772 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:19:10.982  INFO 1772 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:19:11.670  WARN 1772 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:19:11.988  INFO 1772 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:19:12.005  INFO 1772 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:19:12.005  INFO 1772 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:19:12.197  INFO 1772 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:19:12.201  INFO 1772 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:19:12.202  INFO 1772 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1190 ms
+2019-10-14 00:19:12.354  INFO 1772 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:19:12.603  INFO 1772 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:19:12.606  INFO 1772 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 1.96 seconds (JVM running for 2.464)
+2019-10-14 00:19:15.099  INFO 1772 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:19:15.099  INFO 1772 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:19:15.103  INFO 1772 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-10-14 00:22:33.456  INFO 1072 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 1072 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 00:22:33.459  INFO 1072 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 00:22:34.233  WARN 1072 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 00:22:34.628  INFO 1072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 00:22:34.645  INFO 1072 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 00:22:34.645  INFO 1072 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 00:22:34.816  INFO 1072 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 00:22:34.820  INFO 1072 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 00:22:34.820  INFO 1072 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1304 ms
+2019-10-14 00:22:34.994  INFO 1072 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 00:22:35.250  INFO 1072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 00:22:35.252  INFO 1072 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 2.117 seconds (JVM running for 3.01)
+2019-10-14 00:23:19.969  INFO 1072 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 00:23:19.969  INFO 1072 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 00:23:19.976  INFO 1072 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-10-14 22:20:13.989  INFO 14776 --- [main] com.example.tools.ToolsApplication       : Starting ToolsApplication on DESKTOP-AHUOE0F with PID 14776 (D:\IDEAworkspace\tools\target\classes started by Yancy in D:\IDEAworkspace\tools)
+2019-10-14 22:20:14.036  INFO 14776 --- [main] com.example.tools.ToolsApplication       : No active profile set, falling back to default profiles: default
+2019-10-14 22:20:14.969  WARN 14776 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.tools]' package. Please check your configuration.
+2019-10-14 22:20:15.451  INFO 14776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 63577 (http)
+2019-10-14 22:20:15.477  INFO 14776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-14 22:20:15.477  INFO 14776 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-14 22:20:15.693  INFO 14776 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-10-14 22:20:15.693  INFO 14776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-14 22:20:15.693  INFO 14776 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1604 ms
+2019-10-14 22:20:15.909  INFO 14776 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-14 22:20:16.174  INFO 14776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 63577 (http) with context path ''
+2019-10-14 22:20:16.175  INFO 14776 --- [main] com.example.tools.ToolsApplication       : Started ToolsApplication in 2.503 seconds (JVM running for 5.149)
+2019-10-14 22:20:34.431  INFO 14776 --- [http-nio-63577-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-14 22:20:34.431  INFO 14776 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-10-14 22:20:34.431  INFO 14776 --- [http-nio-63577-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2019-10-14 22:20:38.659  INFO 14776 --- [http-nio-63577-exec-4] c.e.tools.controller.PwdController       : resetPwd,request:{"phone":"","pwdTyp":"01"}
+2019-10-14 22:20:38.944  INFO 14776 --- [http-nio-63577-exec-4] com.example.tools.action.JDBCUtil        : JDBC连接成功
+2019-10-14 22:20:38.959  INFO 14776 --- [http-nio-63577-exec-4] com.example.tools.action.JDBCUtil        : SQL:select usr_id from to_user where phone_no = ''; sql查询单字段结果：
+2019-10-14 22:20:38.991  INFO 14776 --- [http-nio-63577-exec-4] com.example.tools.action.JDBCUtil        : JDBC资源已释放
